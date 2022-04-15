@@ -2,11 +2,11 @@
 
 ### 코사다마 블로그 게시
 
-[COSADAMA Blog](https://www.blog.cosadama.com/coco-2021-delivery/)
+[COSADAMA Blog](https://www.blog.cosadama.com/articles/coco-2021-delivery)
 
 오픈 데이터 데이때도 그렇고, zoom으로 하든 오프라인에서 하든 발표는 항상 떨린다. 이번에도 역시나 떨었을 것 같은데, 그건 일단 동영상을 봐야 알 것 같다
 
-[나름 정속이라고 생각했는데 생각보다 말이 빨랐다.. 역시 떨렸던듯..ㅠ](https://www.youtube.com/watch?v=nTw1hqMxFR4)
+[[발표영상] 나름 정속이라고 생각했는데 생각보다 말이 빨랐다.. 역시 떨렸던듯..ㅠ](https://www.youtube.com/watch?v=nTw1hqMxFR4)
 
 
 
