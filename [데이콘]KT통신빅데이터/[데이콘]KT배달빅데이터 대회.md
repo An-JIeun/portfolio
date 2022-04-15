@@ -30,4 +30,4 @@ EDA..EDA를 더 빨리 해내지 못한 것이 마음에 걸린다. 솔직히 �
 
 ## COCO 컨퍼런스 발표 후기
 
-[COCO 컨퍼런스 발표 후](%5BDACON%5D%20KT%2086db4/COCO%20%E1%84%8F%E1%85%A5%E1%86%AB%E1%84%91%E1%85%A5%20b5374.md)
+[COCO 컨퍼런스 발표 후](https://github.com/An-JIeun/portfolio/blob/main/%5B%EB%8D%B0%EC%9D%B4%EC%BD%98%5DKT%ED%86%B5%EC%8B%A0%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/COCO%20%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4.md)
